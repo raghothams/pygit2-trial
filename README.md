@@ -1,4 +1,5 @@
 pygit2-trial
 ============
 
-pygit2 playground
+Playground repository for pygit2
+
